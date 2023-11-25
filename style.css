@@ -130,5 +130,6 @@ p {
 }
 
 .btn:hover {
+  color: #fff;
   background-color: #aa77df;
 }
